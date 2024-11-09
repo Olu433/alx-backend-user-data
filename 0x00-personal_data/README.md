@@ -114,9 +114,9 @@ By completing this project, you will:
 
 ## Author
 
-**Your Name**  
+**Caleb Awe**
 *Aspiring Backend Developer*  
-GitHub: [your-github-profile](https://github.com/Olu433)
+GitHub: [Olu433](https://github.com/Olu433)
 
 ## License
 
